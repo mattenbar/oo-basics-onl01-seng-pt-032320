@@ -5,6 +5,6 @@ class Book
     @title = title
   end
 
-  attr_accessor :title 
+  attr_accessor :title :author
 
 end
